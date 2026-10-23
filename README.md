@@ -1,6 +1,6 @@
 # Major Revision, Minor Accountability: LLMs as Reviewers of Published Articles in Top-Tier Journals
 
-Code, corpus and raw outputs for the study by Bastien Le Guellec, Su-Hwan Kim, Raphael Bentegeac and Aghiles Hamroun.
+Code, corpus list and raw outputs for the study by Bastien Le Guellec, Su-Hwan Kim, Raphael Bentegeac and Aghiles Hamroun.
 
 Four large language models were asked to peer-review 200 articles already published in 2026, under a Creative Commons Attribution (CC BY) license, in 20 general-science, life-science and clinical-medicine journals (ten per journal). Each model was told it was a reviewer for the article's real journal and was not told the article had been published. The study covers three experiments plus a revision-framing comparison:
 
@@ -9,7 +9,7 @@ Four large language models were asked to peer-review 200 articles already publis
 | Experiment 1 (§3.1) | Decision on each unmodified manuscript, 4 models × 200 | `experiments/exp1_accept_rate/run.py` | `results/exp1_decisions.csv` |
 | Revision framing (§3.2) | Same, with the prompt saying the manuscript is a revision | `experiments/exp1_accept_rate/run_second_round.py` | `results/exp1_secondround.csv` |
 | Repeat review (reported by `manuscript_stats.py`) | Identical second pass, for intra-model agreement | `experiments/exp1_accept_rate/run_intra_rater.py` | `results/exp1_intra_rater_retest.csv` |
-| Experiment 2 (§3.3) | Detection of one planted flaw per manuscript | `experiments/exp2_error_injection/run.py` | `results/exp2_injections.jsonl`, `papers/_exp2_injected/` |
+| Experiment 2 (§3.3) | Detection of one planted flaw per manuscript | `experiments/exp2_error_injection/run.py` | `results/exp2_injections.jsonl` |
 | Experiment 3 (§3.4) | Blind judging of the four Experiment-1 reviews of each manuscript | `experiments/exp5_review_quality/run.py` | `results/exp5_review_quality.jsonl` (Grok 4.6), `results/exp5_review_quality_minimax.jsonl` (MiniMax M3) |
 
 The review-quality experiment lives in `exp5_review_quality/` for historical reasons; it is Experiment 3 in the manuscript.
@@ -39,9 +39,10 @@ Tested with Python 3.12. Figures use the Liberation Sans font (`fonts-liberation
 
 ## Re-run the experiments
 
-All model calls go through [OpenRouter](https://openrouter.ai). Copy `.env.example` to `.env` and set `OPENROUTER_API_KEY`. Every runner is idempotent: it skips any (manuscript, model) pair already present in its output file, so delete or move the corresponding `results/` file to start over.
+The article texts are not included (see [Corpus](#corpus)), so rebuild them first; this needs `SPRINGER_NATURE_API_KEY` (free from the Springer Nature API portal). All model calls go through [OpenRouter](https://openrouter.ai) and need `OPENROUTER_API_KEY`. Copy `.env.example` to `.env` and set both. Every runner is idempotent: it skips any (manuscript, model) pair already present in its output file, so delete or move the corresponding `results/` file to start over.
 
 ```bash
+python3 experiments/common/rebuild_corpus.py                  # papers/*.txt and papers/_exp2_injected/*.txt
 python3 experiments/exp1_accept_rate/run.py                   # Experiment 1
 python3 experiments/exp1_accept_rate/run_second_round.py      # revision framing
 python3 experiments/exp1_accept_rate/run_intra_rater.py --dois-file results/intra_rater_full_sample.json
@@ -67,13 +68,13 @@ DeepSeek v4 Flash occasionally returns an empty or truncated answer on the longe
 
 ## Corpus
 
-`papers/` holds one plain-text file per article, named after its DOI with `/` replaced by `_`. Some DOIs contain several slashes (for example `10.1093/eurheartj/...`), so recover a DOI from a file name with `common.journal_manifest.doi_for_stem()`, not by string replacement. `papers/_journal_manifest.json` maps each DOI to its journal and `results/final_corpus_dois.json` lists the 200 DOIs. `papers/corpus.csv` gives each article's title, journal, license and copyright holder.
+The article texts are not redistributed here; only their identifiers are. `papers/corpus.csv` lists the 200 articles with DOI, journal, title, license, copyright holder, and the SHA-256 of the exact text each model reviewed (`text_sha256`) and of its flaw-injected version (`injected_sha256`). `papers/_journal_manifest.json` maps each DOI to its journal and `results/final_corpus_dois.json` lists the 200 DOIs.
 
-Inclusion criteria: published in 2026; a CC BY license; body of at least 2,000 words; a research or review article (no correction, erratum, retraction or short-format letter). Full text was retrieved as JATS XML from the Springer Nature Open Access API for Nature, Nature Medicine, Nature Communications, Nature Genetics and Scientific Reports, and from Europe PMC for the other 15 journals (`experiments/common/get_fulltext.py`, `get_europepmc_papers.py`, `fetch_ccby_topup.py`, `fetch_replacements.py`, filtered by `article_filter.py`). The title, abstract, body text, figure and table captions, and in-XML table content were concatenated into plain text; images and supplementary files are not included. `experiments/common/check_licenses.py` re-reads each article's license from its source XML into `results/license_check.jsonl`. Re-running the fetchers today can return different articles or slightly different text, so use the files in `papers/` to reproduce the study.
+Inclusion criteria: published in 2026; a CC BY license; body of at least 2,000 words; a research or review article (no correction, erratum, retraction or short-format letter). Full text was retrieved as JATS XML from the Springer Nature Open Access API for Nature, Nature Medicine, Nature Communications, Nature Genetics and Scientific Reports, and from Europe PMC for the other 15 journals (`experiments/common/get_fulltext.py`, `get_europepmc_papers.py`, `fetch_ccby_topup.py`, `fetch_replacements.py`, filtered by `article_filter.py`). The title, abstract, body text, figure and table captions, and in-XML table content were concatenated into plain text; images and supplementary files were not included. `experiments/common/check_licenses.py` re-reads each article's license from its source XML into `results/license_check.jsonl`.
 
-### Flaw-injected manuscripts
+`experiments/common/rebuild_corpus.py` re-fetches every article with the same extractors, writes `papers/<doi with / replaced by _>.txt`, rebuilds each flaw-injected text in `papers/_exp2_injected/` by applying the `flaw_location` replacement recorded in `results/exp2_injections.jsonl`, and checks both against the SHA-256 in `corpus.csv`. Tested on 23 October 2026, 147 of the 200 texts rebuilt byte for byte. Most of the others differ in formatting because they were extracted by earlier versions of the code (abstract labels, inline citation numbers, table layout, supplement captions), and one article is no longer served by Europe PMC. The script lists every text that differs. Some DOIs contain several slashes (for example `10.1093/eurheartj/...`), so recover a DOI from a file name with `common.journal_manifest.doi_for_stem()`, not by string replacement.
 
-`papers/_exp2_injected/` contains the 200 manuscripts reviewed in Experiment 2. **Each one has been deliberately altered to contain a serious methodological or statistical flaw and does not describe the study as it was conducted or published.** Do not read, cite or reuse them as the original articles. The exact passage replaced in each file is recorded in the `flaw_location` field of `results/exp2_injections.jsonl`.
+The rebuilt files in `papers/_exp2_injected/` are **deliberately altered**: each contains a serious methodological or statistical flaw and does not describe the study as it was conducted or published. Do not read, cite or reuse them as the original articles.
 
 ## Output formats
 
@@ -84,7 +85,7 @@ Inclusion criteria: published in 2026; a CC BY license; body of at least 2,000 w
 ## License
 
 - Code: MIT (`LICENSE`).
-- Corpus texts in `papers/`: each article keeps its original CC BY license (version per article in `papers/corpus.csv`, which also gives attribution). See `DATA_LICENSE.md` for the changes made.
+- Article texts: not included. Each article remains under its publisher's CC BY license (version and attribution per article in `papers/corpus.csv`; see `DATA_LICENSE.md`).
 - Model outputs and judgments in `results/`: CC BY 4.0.
 
 ## Citation
