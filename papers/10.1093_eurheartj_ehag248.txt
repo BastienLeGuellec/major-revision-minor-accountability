@@ -1,0 +1,523 @@
+TITLE: Thyroid dysfunction and cardiovascular disease
+
+ABSTRACT:
+Graphical AbstractGraphical AbstractFor image description, please refer to the figure legend and surrounding text.Cardiovascular manifestations of thyroid dysfunction.Keywords: Thyroid dysfunction, Subclinical thyroid dysfunction, Cardiovascular disease, Levothyroxine, Cardiovascular risk
+
+BODY:
+Cardiovascular diseases (CVDs) remain the leading cause of mortality worldwide, with the overall burden projected to increase over the coming decades.1 The impact of thyroid disorders on cardiovascular health has long been discussed.2 The aim of this review was to provide a comprehensive and up-to-date summary of the relationship between thyroid dysfunction and cardiovascular health, spanning molecular mechanisms and pathophysiology through to epidemiological evidence. It extends previous reviews by incorporating recent data, including emerging findings from multi-omics and Mendelian randomization (MR) studies.Thyroid hormones and the cardiovascular system: molecular mechanismsThyroid status is determined by measuring thyroid function tests in peripheral blood. Table 1 classifies thyroid status using the current reference ranges for serum thyroid-stimulating hormone (TSH), free thyroxine (FT4), and free triiodothyronine (FT3) concentrations (further details are provided in the Supplementary Materials).Table 1Commonly defined categories of thyroid statusThyroid statusTSHbFree T4Free T3Causes
+Overt Hyperthyroidism
+LowElevatedElevated or normalExogenous cause: excessive thyroid hormone replacement.Endogenous Causes: Graves’ disease, multinodular goitre, an autonomously functioning thyroid nodule or Hashitoxicosis.
+T3 Toxicosis
+LowNormalElevatedGraves’ disease, multinodular goitre, or an autonomously functioning thyroid nodule.
+Subclinical Hyperthyroidism
+LowNormalNormalExogenous cause: excessive intake of thyroid hormone or desiccated thyroid extract.Endogenous Causes: Graves’ disease, multinodular goitre, or an autonomously functioning thyroid nodule.
+Euthyroid (Normal)
+NormalNormalNormalNA
+Sick Euthyroid Syndrome (Non-Thyroidal Illness Syndrome)a
+Normal or LowNormal or LowLowPrimarily triggered by acute or chronic systemic illnesses, including sepsis, cardiac disease and critical care settings.
+Overt Hypothyroidism
+ElevatedLowLow or normalExogenous causes: Inadequate TH replacement or noncompliance for overt hypothyroidism.Endogenous causes: Hashimoto’s autoimmune thyroiditis, Thyroid damage due to thyroidectomy or radiation. Secondary hypothyroidism due to TSH deficiency.
+Subclinical Hypothyroidism
+ElevatedNormalNormalExogenous causes: inadequate levothyroxine replacement therapy in patients with hypothyroidism, as well as the use of medications such as lithium, cytokines, iodine, antithyroid drugs, or interventions like radioiodine therapy and thyroidectomy.Endogenous causes: Hashimoto's thyroiditis, a history of subacute or silent thyroiditis and ageing (some elderly individuals may develop subclinical hypothyroidism due to age-related decline in thyroid functionTSH, thyroid-stimulating hormone; T4, thyroxine; T3, triiodothyronine; NA, not applicable.
+aNon-thyroidal illness syndrome (NTIS) includes: Low T3 syndrome, Low free T3/T4 syndrome, or transient TSH suppression. NTIS reflects transient alterations in thyroid hormone levels during systemic illness and is not classified as not a primary thyroid dysfunction.
+b
+Reference range variability: TSH, FT4 and FT3 ranges vary by laboratory and assay method.
+Commonly used adult reference ranges (non-pregnant): TSH: ∼0.4–4.4 mIU/L; Free T4: ∼10–23 pmol/L (0.8–1.8 ng/dL) Free FT3: ∼ 3.1–6.8 pmol/L (2.0–4.4 pg/mL) These values are provided for context only; interpretation in clinical practice should always rely on assay-specific reference intervals.The role of thyroid hormones on cardiovascular physiology is particularly important with effects on both cardiomyocytes and vascular endothelium (Figure 1). The cardiac effects of thyroid hormones are primarily mediated via interaction with nuclear-based thyroid hormone receptors, which modulate the expression of certain cardiac proteins.3–5 The effects of thyroid hormones on the heart are primarily mediated by T3, which increases cardiac contractility, heart rate, and the speed of cardiac relaxation during diastole.2,6 Decreased ventricular relaxation, which leads to diastolic dysfunction as seen in persons with hypothyroidism, is believed to be secondary to the downregulation of the gene encoding sarcoplasmic/endoplasmic reticulum calcium ATPase 2 (SERCA2), and increased expression of phospholamban, which in turn causes a decrease in calcium uptake during diastole.7,8 Recent reports indicate that cardiomyocytes from hypothyroid female rats exhibit misalignment of cardiac transverse tubules, increased calcium sparks, and reduced co-localization of L-type calcium channels and junctophilin-2, which are essential for effective cardiomyocyte contractile activity.9 These alterations were improved following oral triiodo-L-thyronine administration.9 In contrast, excess thyroid hormone upregulates β-adrenergic receptor expression, leading to increased heart rate and cardiac output.10 This enhanced adrenergic responsiveness may subsequently contribute to the development or exacerbation of heart failure (HF) in the setting of hyperthyroidism.10,11 Experimental studies have demonstrated that both TSH and peripheral thyroid hormones exert regulatory effects on microRNA-1 and hyperpolarization-activated cyclic nucleotide-gated channel 2.12,13 These molecules have been implicated in the pathogenesis of cardiac hypertrophy, myocardial remodelling, and HF.13–15 In addition, thyroid hormones have been reported to modulate the expression and function of gap junction channels.10,12Figure 1Molecular and physiological mechanisms underlying the effects of thyroid hormones on cardiomyocytes and vascular endothelial and smooth muscle cells, and their overall impact on the cardiovascular system. Created in BioRender. Alwan, H. (2026) https://BioRender.com/63528ga Na+/K1 ATPase: sodium-potassium adenosine triphosphatase; MYH6: myosin heavy chain α; SERCA2: sarcoplasmic/endoplasmic reticulum calcium ATPase 2; MYH7: myosin heavy chain β; PLN: phospholamban; PI3K/AKT: phosphatidylinositol 3 kinase/protein kinase B; NO: nitric oxide; SVR: systemic vascular resistance; RAA: renin-angiotensin-aldosterone axisMolecular and physiological mechanisms underlying the effects of thyroid hormoneson cardiomyocytes and vascular endothelial and smooth muscle cells, and their overall impact on the cardiovascular system.Thyroid hormones also influence cardiomyocytes through non-genomic pathways primarily through modulation of ion channels and signalling pathways.4,5 In a rat model of central hypothyroidism, TSH directly mediated cardiac electrical remodelling by suppressing repolarizing potassium currents via TSH receptor-protein kinase A signalling. This effect increases arrhythmia risk through increased triggered activity.16Moreover, thyroid hormones promote relaxation of vascular smooth-muscles cells leading to reduced systemic vascular resistance.2,6 Lower systemic vascular resistance reduces the effective arterial filling volume, which then increases renin release and activates the angiotensin-aldosterone axis.2 The latter results in increased renal sodium reabsorption and a rise in plasma volume. This process, in conjunction with the stimulation of erythropoietin secretion, contributes to the increase in blood volume and cardiac preload, thereby further augmenting cardiac output.2 In contrast, thyroid hormone deficiency leads to decreased production of nitric oxide, thereby increasing systemic vascular resistance.7,17Research has shown that T3 stimulates the activity of 3-hydroxy-3-methylglutaryl coenzyme A reductase, which is essential for cholesterol production and a target of statin medications, while simultaneously upregulating hepatic low-density lipoprotein receptor gene expression.10,18 Moreover, thyroid hormones influence cholesterol 7α-hydroxylase, the enzyme responsible for cholesterol breakdown, and promote hepatic lipogenesis via activation of the carbohydrate response element-binding protein transcription factor.10,19 Reduced activity of lipoprotein lipase and lipid-related proteins is also observed in hypothyroidism.10,20OMICsOmics research enables a comprehensive assessment of molecules at multiple levels, including the genome, transcriptome, proteome, and metabolome.21,22 Over the past decade, numerous omics studies have been carried out, providing important insights into the molecular links between thyroid dysfunction and CVD.21 A recent metabolomics study revealed that patients with hypothyroidism experienced significant reductions in circulating levels of ceramide, phosphatidylcholine, triglycerides, acylcarnitine, and peptides after achieving euthyroidism through levothyroxine (LT4) therapy.23 In a study involving 16 healthy men treated with LT4 for eight weeks to induce a hyperthyroid state, 65 metabolites and 63 proteins were associated with serum FT4 levels, and these markers correlated with elevated resting energy expenditure, enhanced protection against systemic oxidative stress, and reduced levels of lipoprotein particles.24 Supporting these observations, a population-based analysis from the Study of Health in Pomerania involving 952 participants identified significant associations between serum FT4 and 106 plasma metabolites, the majority of which were lipid-related, highlighting the possible effect of thyroid function on the lipid profile.25Omics studies have therefore highlighted the effects of thyroid hormones on oxidative stress, lipid metabolism, and other related pathways. However, despite rapid progress in recent years, the clinical application of these findings remains limited. Very few of these biomarkers have been clinically approved, largely due to technical limitations in analysis, poor comparability across platforms, biological variability, and, in some cases, insufficient statistical power.26 In the future, translating these insights into practice could allow omics-based biomarkers to support early detection of CVD in patients with thyroid disorders, identify those who may benefit from treatment (e.g. for individuals with subclinical hypothyroidism), and guide personalized therapy, including responses to LT4 on lipid profiles and other cardiovascular risk markers.Pathophysiological mechanismsThyroid dysfunction and dyslipidaemiaIt is well established that overt thyroid dysfunction significantly influences lipid metabolism.17 Hyperthyroidism is typically associated with reduced serum cholesterol levels due to increased turnover, whereas hypothyroidism is linked to elevated cholesterol levels, particularly an increase in LDL-C concentrations due to reduced cholesterol clearance and breakdown of cholesterol.17 Hypothyroidism also increases oxidation of LDL-C and lipoprotein(a) levels, both of which are associated with atherogenesis.10,17,27,28 Additionally, reduced catabolism of triglycerides leads to increase serum triglyceride levels.10,29Thyroid dysfunction and cardiac rhythm abnormalitiesIn hypothyroidism, electrocardiographic (ECG) findings include sinus bradycardia, prolonged QTc interval, which may lead to Torsades de Pointes, ventricular tachycardia, low voltage, conduction abnormalities, T-wave inversion, and, rarely, atrioventricular block (Table 2).4,6 Rhythm abnormalities encountered in hyperthyroid states are sinus tachycardia, AF, short PR and QTc intervals, and ST segment elevation.2,6 Mechanisms linking hyperthyroidism to AF include increased left atrial pressure, ischaemia secondary to elevated resting heart rate, increased atrial ectopic activity, and shortening of the action potential duration.30Table 2Pathophysiological cardiovascular effects of thyroid dysfunctionSystemHypothyroidismHyperthyroidism
+Cardiac Rhythm Abnormalities
+
+Sinus bradycardia
+
+Sinus tachycardia
+
+Prolonged QTc interval
+
+Atrial fibrillation
+
+T-wave inversion
+
+Short PR and QTc intervalST segment elevation
+
+Atrioventricular block
+
+Dyslipidaemia
+
+Increased total cholesterol
+
+Decreased total cholesterol
+
+Increased LDL-cholesterol
+
+Increased lipoprotein(a)
+
+Decreased LDL-cholesterol
+
+Increased triglycerides
+
+Vascular Effects
+
+Diastolic hypertension
+
+Systolic hypertension
+
+Increased carotid intima-media thickness
+
+Elevated markers of endothelial dysfunction
+
+Heart Failure
+
+Diastolic dysfunction
+
+Increased left ventricular mass
+
+Reduced cardiac output
+
+Left ventricular dysfunction
+
+Pericardial effusion and non-pitting oedema
+
+‘High-output’ heart failure
+
+Pulmonary hypertension
+LDL, low-density lipoprotein.These findings have been recently confirmed in a large registry-based study (n = 132 707) investigating the effect of thyroid dysfunction on ECG parameters.31 The study demonstrated that hyperthyroidism was associated with a higher heart rate as compared to euthyroid individuals.31 On the other hand, overt hypothyroidism was linked to a slower heart rate, increased P-wave duration, a longer PR interval, and low voltage.31 Furthermore, ECG changes associated with hyperthyroidism may potentially serve as an early diagnostic tool, as demonstrated in one study where researchers developed an artificial intelligence model capable of detecting hyperthyroidism using ECG data.32 The model accurately identified both subclinical and overt hyperthyroidism, and demonstrated that individuals identified by the algorithm had a significantly increased risk of all-cause mortality (hazard ratio (HR): 1.97, 95% confidence interval (CI): 1.73–2.24) and new-onset HF (HR: 2.21, 95% CI: 1.82–2.68).33Thyroid dysfunction and the vasculatureAlthough systolic blood pressure (BP) may be elevated in hyperthyroid states, the net effect on BP depends on the interplay between increased cardiac output and reduced systemic vascular resistance.17 Hyperthyroidism has also been found to be associated with elevated circulating markers of endothelial dysfunction.34 A 2020 study reported increased levels of vascular cell adhesion molecule-1 (1309 ± 292 vs 1009 ± 168 ng/mL, P < .001), which is associated with endothelial dysfunction, and lower ankle-brachial index (0.98 ± 0.11 vs 1.06 ± 0.10, P < .001) in patients with Grave’s disease, as compared to euthyroid individuals, although the clinical significance of these differences is likely modest.35 In patients with differentiated thyroid cancer undergoing thyroidectomy and radioiodine ablation, flow-mediated dilation (FMD) decreased significantly during the hypothyroidism state, reflecting endothelial dysfunction.36 Similarly, a study involving children with newly diagnosed Graves’ disease demonstrated elevated von Willebrand factor levels and impaired FMD of the brachial artery (P = .001).37 A study using computed tomography angiography found that individuals with overt hyperthyroidism had significantly higher mean coronary calcium scores (456.5 vs 199.5 vs 155.9; P < .0001) and more high-grade coronary artery stenoses (39.2% vs 24.2%; P = .007) as compared to euthyroid individuals.38Overt hypothyroidism is associated with increased peripheral vascular resistance and diastolic hypertension.17,39 It has also been associated with increased carotid intima-media thickness and impaired endothelium-dependent vasodilation, largely due to reduced nitric oxide availability.17,39 A recent meta-analysis found an increase in pulse-wave velocity, reflecting increased arterial stiffness in persons with both overt and subclinical hypothyroidism.40 The arterial stiffness and endothelial dysfunction associated with both overt and subclinical hypothyroidism are thought to result from hyperlipidaemia and the pro-inflammatory state triggered by insufficient thyroid hormone levels.17 Additionally, the absence of T3-mediated vasodilatory effects contributes to increased arterial stiffness, which, in conjunction with a low-renin state, plays a role in the pathogenesis of hypertension in hypothyroidism.17 The suppression of the renin-angiotensin system in hypothyroidism was recently confirmed in a study conducted in Japan, where patients with thyroid carcinoma undergoing thyroid hormone withdrawal for radioactive iodine therapy exhibited significantly reduced plasma renin activity and elevated serum potassium levels four weeks after LT4 discontinuation.41Thyroid dysfunction and heart failureIndividuals with overt hyperthyroidism can present with symptoms of HF, such as exertional dyspnoea, even in the absence of prior cardiac disease.2,4 Overt hyperthyroidism enhances cardiac contractility, increases heart rate and cardiac preload, widens pulse pressure, and decreases systemic vascular resistance, all of which collectively contribute to an increased cardiac output.17,42 Severe, untreated hyperthyroidism can also lead to ‘high-output’ HF, resulting in pulmonary hypertension.17 Other proposed mechanisms contributing to HF in hyperthyroidism include increased left ventricular mass and left ventricular dysfunction, particularly in the context of AF.10,43 In older persons with pre-existing heart disease, the added strain caused by hyperthyroidism can further exacerbate cardiac dysfunction.2In contrast, hypothyroidism has been associated with impaired ventricular filling and relaxation, which can lead to diastolic dysfunction.10,17,44 This condition also results in decreased cardiac output, primarily due to bradycardia, and can also lead to pericardial effusion. A meta-analysis of 11 case-control studies that examined changes in cardiac morphology and functional changes before and after supplementation with LT4 in individuals with subclinical hypothyroidism (n = 294) found that cardiac output and left ventricular ejection fraction were significantly increased after treatment.45Thyroid dysfunction and inflammationInflammation and oxidative stress are shared pathogenic features of thyroid disorders and CVD.7,17 A recent study demonstrated that patients with hyperthyroidism had higher levels of oxidative stress markers, which significantly decreased after treatment.46 Conversely, increased levels of levels of pro-inflammatory cytokines have been reported among patients with Hashimoto thyroiditis47 and treatment of hypothyroidism has been shown to reduce inflammatory markers.48Thyroid dysfunction and cardiovascular risk: epidemiologic evidencePrevious studies have extensively explored the effects of thyroid dysfunction on the cardiovascular system.49–56 Furthermore, a growing body of observational data suggests that cardiovascular risk may be increased even in individuals with subclinical thyroid dysfunction (SCTD). To address uncertainties in this area, the Thyroid Studies Collaboration (TSC) (https://www.thyroid-studies.org/; Figure 2), a large international consortium, was established.56–58 The TSC includes individual participant data (IPD) from 29 prospective cohorts, comprising over 167 000 participants across four continents, providing a unique opportunity to study adverse outcomes associated with SCTD.53,55–58 The following section provides a comprehensive synthesis of current evidence on the association between thyroid dysfunction and cardiovascular outcomes (summarized in Table 3).Figure 2Thyroid Studies Collaboration mapThyroid Studies Collaboration mapTable 3Evidence map of Epidemiologic Studies on Thyroid Dysfunction and Cardiovascular endpointsOutcomeThyroid StatusStudy TypeKey StudiesDirection of associationStrength of evidence
+Atrial Fibrillation
+Overt hyperthyroidismObservational, (meta-analysis and MR)
+Meta-analysis of 5 studies (Huang et al., 2022):→ (RR, 2.35; 95% CI, 1.07–5.16)—markedly increased AF risk2 MR studies reported hyperthyroidism is associated with a very small increased risk of AFOR, 1.05; 95% CI, 1.03–1.08 (Larson et al., 2019)OR, 1.05; 95% CI, 1.02–1.08 (Ruan et al., 2024)
+  Increased RiskStrong (consistent observational, observational data effect size: Large; MR effect size: very small (but precise and consistent))Subclinical hyperthyroidismObservational, (IPD analysis, meta-analysis)
+IPD -analysis of 5 cohorts (Collet et al., 2012):→TSH 0.10–0.44 mIU/L: HR 1.68 (95% CI: 1.16–2.43)—increased risk of AF.→TSH <0.10 mIU/L: HR 2.54 (95% CI: 1.08–5.99)—increased risk of AF.Meta-analysis of 13 cohorts (Huang et al., 2022):→ RR 1.70 (95% CI: 1.11–2.62)—increased risk of AF.
+  Increased Risk
+Strong (consistent findings across IPD and aggregate-data meta-analysis, dose-response across TSH levels, large and clinically meaningful effect sizes)Subclinical hypothyroidismObservational (IPD analysis, meta-analysis)
+Meta-analysis of 7 cohorts (Singh et al., 2024):→ RR 1.19 (95% CI: 1.03–1.39)—modest increased risk of AFMeta-analysis of 13 cohorts (Huang et al., 2022):→ RR 1.23 (95% CI: 1.05–1.44)—modest increased risk of AFIPD analysis of 11 cohorts (Baumgartner et al., 2017):→TSH 7.0–9.9 mIU/L: HR 1.02 (95% CI: 0.73–1.41)→TSH 10.0–19.9 mIU/L: HR 0.94 (95% CI: 0.61–1.47)
+  Mixed evidence
+Limited–Moderate (modest effect sizes in meta-analyses, but inconsistency with IPD that has further adjusted for cardiovascular risk factors and excluded thyroid medication users)Overt hypothyroidismObservational (cohort, meta-analysis)
+Meta-analysis of 5 studies (Huang et al., 2022), no increased risk of AF:→ RR 1.20 (95% CI: 0.72–1.99)Meta-analysis of 4 studies (Ning et al., 2017), no increased risk of AF:→ RR 1.02 (95% CI: 0.71–1.46)
+  No evidence of increased risk
+Limited–Moderate (consistent null findings across multiple meta-analyses of observational studies but limited by imprecision with broad CI).
+CHD
+Overt hyperthyroidismObservational (meta-analyses)
+Meta-analysis of 7 studies (Brandt et al., 2011), increased risk of CHD:→ CVD mortality: RR 1.21 (95% CI: 1.05–1.38)Meta-analysis of 4 cohorts (Sohn et al., 2020), increased CHD risk:→ CHD events: HR 1.11 (95% CI: 1.03–1.19)→ CHD mortality: HR 1.24 (95% CI: 1.07–1.45)
+  Increased Risk
+Moderate (consistent observational data, modest or small effect sizes, precise estimates)Subclinical hyperthyroidismObservational (IPD analysis, meta-analysis)
+IPD analysis of 10 cohorts (Collet et al.,2012), increased risks of:→ CHD mortality: HR, 1.29 (95% CI: 1.02–1.62)→ CHD events. HR, 1.21 (95% CI: 0.99–1.46).Meta-analysis (Sohn et al., 2020), increased risk of→ CHD events (11 studies): HR, 1.26 (95% CI, 1.06–1.49)→ CV mortality (14 studies): HR, 1.21 (95% CI, 0.88 −1.67).
+  Increased Risk
+Moderate (consistent observational data, small to moderate effect sizes, dose-response across TSH levels)Subclinical hypothyroidismObservational (IPD analysis, meta-analysis)
+IPD analysis of 11 cohorts (Rodondi et al., 2010); subclinical hypothyroidism is associated with increased risk of CHD:→ (TSH ≥10): CHD events HR 1.89 (95% CI: 1.28–2.80)→ (TSH ≥7): CHD mortality HR 1.42 (95% CI: 1.03–1.95)Meta-analysis of 16 studies (Sun et al., 2017)→CHD events: RR 1.27 (95% CI: 0.91–1.58)—increased CHD risk→CHD mortality: RR 1.37 (95% CI: 1.03–1.84) −increased CHD mortality risk
+  Increased Risk
+Moderate–Strong (consistent observational data; dose-response across TSH levels)Overt hypothyroidismObservational, (meta-analysis) and Genetic (MR)
+Meta-analysis (Ning et al., 2017):→ CVD mortality (17 studies): RR 1.96 (95% CI: 1.33–2.80)—markedly increased CVD mortality risk→ CHD (13 studies): RR 1.13 (95% CI: 1.01–1.26)—modest increased CHD riskMR evidence:→ MI: OR 1.02 (95% CI: 1.01–1.04)—very small causal effect (Li et al., 2024)→ No evidence of a causal association with CHD (Ruan et al., 2024; Larsson et al., 2019)
+  Increased Risk
+Limited–Moderate (strong observational association for CVD mortality with a modest but consistent association for CHD incidence, inconsistent causal inference findings with very small effect size)
+Stroke
+Overt hyperthyroidismObservational (meta-analyses, cohort)Meta-analysis of 11 studies (Sohn et al., 2020):→ HR 1.35 (95% CI: 1.03–1.75)—increased risk of strokeCohort study (Sheu et al., 2010):→ HR 1.44 (95% CI: 1.02–2.12)—increased risk of ischaemic strokeCohort study (Kim et al., 2020).→ Ischaemic stroke: HR 1.18 (95% CI 1.04–1.26)—increased risk of stroke→ Hemorrhagic stroke: HR 1.13 (95% CI 0.88–1.47)- no evidence of increased risk
+  Increased Risk
+Moderate (consistent association of increased risk, small to moderate effect sizes)Subclinical hyperthyroidismObservational, (meta-analysis)
+Meta-analysis of 4 studies (Chaker et al., 2014):→ HR 1.17 (95% CI: 0.54–2.56)—no evidence of increased risk of strokeMeta-analysis of 5 studies (Sohn et al., 2020):→ HR 1.17 (95% CI: 0.90–1.52)—no evidence of increased risk of stroke
+  No evidence of increased risk
+Limited–Moderate (consistent null findings, limited by small number of studies and imprecision with wide CIs, no subtype of stroke analysis)Subclinical hypothyroidismObservational, (IPD analysis, meta-analysis)
+IPD analysis of 17 cohorts (Chaker et al., 2015):→ stroke events: HR 1.05 (95% CI: 0.91–1.21)—no evidence of increased risk→stroke mortality: HR 1.07 (95% CI, 0.80–1.42)—no evidence of increased risk→ Age 18–49 years: Stroke events HR 3.32 (95% CI: 1.25–8.80)→ Stroke mortality increased in younger age groups:Age 18–49 years: HR 4.22 (95% CI: 1.08–16.55)Age 50–64 years: HR 2.86 (95% CI: 1.31–6.26); (P for trend = 0.04)Meta-analysis of 4 studies (Chaker et al., 2014):→ HR 1.08 (95% CI: 0.87–1.34)—no evidence of increased risk of stroke
+  Mixed evidence
+Limited–Moderate (consistent null findings in the overall population with small effect sizes and precise estimates for overall, large effect sizes for subgroup analysis of age, absence of analysis by stroke subtype)Overt hypothyroidismObservational, (meta-analysis) and Genetic (MR)
+Meta-analysis of 9 studies (Ning et al., 2017):→ RR 1.09 (95% CI: 0.96–1.24) –no evidence of increased risk of strokeMR study (Tian et al., 2024):→ Ischaemic stroke: OR 2.24 (95% CI: 1.18–4.26)—evidence supporting a causal association with overt hypothyroidism
+  Mixed evidence
+Low to moderate (inconsistent results across studies, null observational findings. MR study suggests a substantial causal effect for overt hypothyroidism, broad CI for MR)
+Heart Failure (HF)
+Overt hyperthyroidismObservational, (meta-analysis)
+Meta-analysis of 4 studies (Sohn et al., 2020):→ HF risk: HR 1.28 (95% CI: 1.15–1.43)—increased HF riskMeta-analysis (Fan et al., 2024; n = 30 889):→ HF occurrence among patients with overt hyperthyroidism: 8% developed heart failure
+  Increased Risk
+Moderate (consistent results across studies, moderate effect sizes but did not account for thyroid treatment, precise estimates)Subclinical hyperthyroidismObservational, (IPD analysis, meta-analysis)
+IPD analysis of 6 cohorts (Gencer et al., 2012):→ TSH <0.10 mIU/L: HR 1.94 (95% CI: 1.01–3.72)—increased HF risk, Evidence of a dose–response relationship with decreasing TSH levelsMeta-analysis of 4 studies (Sohn et al., 2020):→ HR 1.41 (95% CI: 0.80–3.30)—no statistically significant association
+  Increased Risk
+Moderate (consistent direction of increased risk, effect sizes moderate to large, wide CIs, dose-response across TSH levels)Subclinical hypothyroidismObservational, (IPD analysis, cohort, meta-analysis)
+IPD analysis of 6 cohorts (Gencer et al., 2012):→ TSH ≥10 mIU/L: HR 1.86 (95% CI: 1.27–2.72)—increased risk of HF eventsCohort study (Rodondi et al., 2005):→ TSH ≥7.0 mIU/L: more than 2-fold increased risk of HF eventsMeta-analysis of 14 studies (Yang et al., 2019); thyroid dysfunction and prognosis in heart failure:→ All-cause mortality: HR 1.45 (95% CI: 1.26–1.67)– increased mortality risk→ Cardiac death and/or HF hospitalization: HR 1.33 (95% CI: 1.17–1.50)—increased risk
+  Increased Risk
+Moderate–Strong (High-quality IPD analysis, consistent findings with cohort, large effect sizes, clear dose-response across TSH levels)Overt hypothyroidismObservational, (meta-analysis, registry cohort)
+Danish national HF cohort (Petersen et al., 2024; n = 58 067):
+→ Composite outcome (mortality + rehospitalization):HR 1.24 (95% CI: 1.02–1.51) –increased risk among patients with overt hypothyroidism prior to HF onsetMeta-analysis of 8 studies (Ning et al., 2017):→ RR 1.13 (95% CI: 0.98–1.30)—no evidence of increased risk of HF
+  Mixed evidence
+Limited (inconsistency between prognosis studies and heart failure risk and heterogeneity in exposure definitions, as thyroid hormone treatment was not accounted for in the meta-analysis but was excluded in the cohort study.)AF, atrial fibrillation; HF, heart failure; IPD, individual participant data; CVD, cardiovascular disease; CHD, coronary heart disease; HR, Hazard Ratio; CI, confidence interval; RR, Risk Relative; Shyper, subclinical hyperthyroidism.Shypo: subclinical hypothyroidism; TSH: thyroid-stimulating hormone, MR: mendelian randomization.
+ = evidence of increased risk (consistent substantial and statistically significant increased risk across studies),  = no evidence of increased risk (no statistically significant relationship in most studies),  = mixed evidence (some evidence of increased risk, but inconsistent across studies).
+Strength of evidence was evaluated by the authors using a narrative, non-formal approach based on consistency, study design and size, precision, control of bias and confounding, and supporting features such as dose–response patterns, and causal inference evidence (MR studies) rather than effect size alone.DyslipidaemiaOvert hyperthyroidism is associated with lower total and LDL-cholesterol levels compared to euthyroid individuals.32,59–61 This association is supported by intervention studies reporting that treatment of overt hyperthyroidism is associated with worsening of the lipid profile. A meta-analysis of randomized and observational studies reported that treatment of overt hyperthyroidism leads to increases in lipid levels: total cholesterol increased by 44.5 mg/dL (95% CI: 38–51), and LDL-C by 31.1 mg/dL (95% CI: 24–38).62 In contrast, overt hypothyroidism is recognized as a major contributor to secondary dyslipidaemia with up to 90% of patients with hypothyroidism reported to have dyslipidemia.2,7,29 Elevated TSH levels are observed in 12%–13% of patients with hypercholesterolemia, significantly higher than the 2% prevalence observed in the general population.63 Furthermore, overt hypothyroidism is associated with an increase in lipoprotein(a) levels, a more potent marker of atherogenesis.64 Both observational studies and randomized controlled trials (RCT)s have demonstrated that treatment of overt hypothyroidism with LT4 can partially or completely normalize the lipid profile.62The effect of subclinical hypothyroidism on lipid metabolism, however, remains more controversial.65,66 A large-scale study (over 11 000 participants) reported no significant differences in lipid parameters between individuals with subclinical hypothyroidism and euthyroid controls after matching for age and sex.67 Similarly, in a recent IPD analysis from the TSC (69 006 participants), there were no clear differences in lipid levels between individuals with SCTD and euthyroid individuals, with the exception of women with subclinical hyperthyroidism who had a lower LDL-C compared to euthyroid individuals (MD −0.17 mmol/L, 95%CI: −.29 to −.05).65 In contrast, a 2021 meta-analysis found that individuals with mild subclinical hypothyroidism (TSH < 10 mIU/L) had significantly higher levels of total cholesterol, LDL-C, and triglycerides, along with significantly lower high-density lipoprotein (HDL). These differences, however, are too small to explain the increased cardiovascular risk in subclinical hypothyroidism observed in previous studies.Interventional studies of LT4 therapy for subclinical hypothyroidism have reported mixed results on lipid profiles.68 A 2020 meta-analysis demonstrated significant reductions in total cholesterol, LDL-C, and triglyceride levels after treatment in patients with both overt and subclinical hypothyroidism, with more pronounced improvements observed in those with overt hypothyroidism (decrease in total cholesterol by −58.4 mg/dL (95% CI: −64.70, −52.09) and LDL-C by −41.11 mg/dL (95% CI: −46.53, −35.69).62 Overall, the clinical significance of subclinical hypothyroidism treatment on lipids remains uncertain.HypertensionOvert hyperthyroidism is identified as a secondary cause of hypertension and is associated with increased systolic BP, especially among individuals aged 50 years and older.69,70 The prevalence of hypertension in patients with thyrotoxicosis is high, estimated at 20–30%.69 Similarly, hypertension is common in overt hypothyroidism, with diastolic hypertension present in approximately 20% of hypothyroid patients.71In contrast, the relationship between SCTD and hypertension remains unclear.72,73 A meta-analysis of cross-sectional studies found that subclinical hypothyroidism was associated with increased systolic and diastolic BP, whereas no such association was observed for subclinical hyperthyroidism.72 Results from a 2025 IPD analysis by the TSC did not show consistent differences in systolic or diastolic BP between individuals with SCTD and euthyroid individuals, with the exception of women with subclinical hyperthyroidism who had lower diastolic BP (MD: −1.3 mmHg, 95% CI: −2.0 to −.5) and men with subclinical hyperthyroidism who had lower systolic BP (MD: −3.1 mmHg, 95% CI: −4.8 to −1.4).65A 2015 evidence review by the U.S. Preventive Services Task Force, based on two small randomized trials, found no significant BP–lowering effect of LT4 treatment.68 In contrast, a 2023 meta-analysis of 28 prospective cohort studies showed that LT4 treatment in individuals with subclinical hypothyroidism was associated with lower systolic BP (MD: −4.02 mmHg; 95% CI: −6.45 to −4.58) and diastolic BP (MD: −2.13 mmHg; 95% CI: −3.69 to −.56).74Atrial fibrillationAF has been consistently associated with both overt and subclinical hyperthyroidism. Among patients with hyperthyroidism, the prevalence of AF ranges from 10% to 14%, significantly higher than the approximately 0.5% observed in the general population.75 A 2022 meta-analysis reported a marked increased risk of AF (relative risk (RR): 2.35; 95% CI: 1.07–5.16) among individuals with overt hyperthyroidism.76 Of note, treatment of hyperthyroidism does not guarantee restoration of sinus rhythm, with approximately one-third of patients continuing to have persistent atrial fibrillation.77 In a TSC IPD analysis, subclinical hyperthyroidism was associated with a 2.54-fold increased AF risk for TSH levels <0.1 mIU/L.55 Similar findings were observed in the Framingham Heart Study (for TSH < 0.1 mIU/L) and the Cardiovascular Health Study (for TSH <0.45 mIU/L), where older adults (≥60 years) with suppressed TSH had approximately 2–3 times higher AF risk. Increased AF risk remained significant even after adjusting for traditional cardiovascular risk factors such as systolic BP, smoking status, total cholesterol, and diabetes. Interestingly, increased risk of AF has been reported for high-normal FT4 levels even within the euthyroid range.57,78 On the other hand, the evidence on the association between subclinical hypothyroidism and AF is conflicting. Two meta-analyses reported increased risk, while an IPD analysis, after adjusting for cardiovascular risk factors and excluding thyroid medication users, found no evidence of increased risk.57,76,79 In contrast, overt hypothyroidism has not been associated with increased AF risk.76,80Coronary heart disease and cardiovascular mortalityBoth overt and subclinical hypothyroidism have been associated with an increased risk of cardiovascular morbidity and mortality. Overt hyperthyroidism has been associated with a 16% increased risk of cardiovascular events and a 21% increase in cardiovascular mortality.81,82 A 2020 meta-analysis further confirmed increased CHD risk (HR 1.11; 95% CI 1.03–1.19) and cardiovascular mortality (HR 1.24; 95% CI 1.07–1.45) in overt hyperthyroidism.83 Similarly, a 2017 meta-analysis of 55 cohort studies reported a 22% higher cardiovascular mortality risk in overt hypothyroidism (RR 1.22; 95% CI 1.01–1.26).80Insights into the effects of SCTD on cardiovascular outcomes are largely derived from two large IPD analyses conducted by the TSC. Subclinical hypothyroidism with TSH >10 mIU/L was associated with substantially increased CHD events (HR 1.89) and CHD mortality (HR 1.58).56 Subclinical hyperthyroidism was also associated with moderately increased risks of CHD events (HR 1.21) and CHD mortality (HR 1.29).55 These findings align with other meta-analyses reporting elevated CHD risk in both subclinical hypo- and hyperthyroidism.8 No increase in risk has been reported for TSH levels between 4.6–6.9 mIU/L.72 In addition to the degree of TSH elevation, age may also modulate cardiovascular risk, particularly in subclinical hypothyroidism. Longitudinal data show that TSH levels increase with age, and several observational studies suggest that subclinical hypothyroidism is associated with increased cardiovascular risk in younger, but not older, adults.84–86 However, TSC IPD analyses have not identified age as an effect modifier.56 Whether cardiovascular risk in subclinical hypothyroidism truly differs by age therefore remains a matter of debate.Heart failureThere is evidence supporting the association between thyroid dysfunction and increased risk of HF. In a 2020 meta-analysis, overt hyperthyroidism was associated with an increased risk of HF (HR: 1.28; 95% CI, 1.15–1.43).83 Similarly, a meta-analysis of 30 889 individuals with overt hyperthyroidism found that 8% developed HF.87 An IPD analysis from the TSC demonstrated a U-shaped relationship between TSH levels and HF risk. Participants with TSH concentrations ≥10 mIU/L and those with TSH <0.1 mIU/L had significantly increased risks of HF, with HR of 1.86 and 1.94, respectively, compared to euthyroid individuals.58 A recently published Danish registry-based study further highlighted the cardiovascular impact of thyroid dysfunction, reporting that both untreated overt and subclinical hypo- and hyperthyroidism were associated with an increased risk of mortality and hospitalization for HF among patients with newly diagnosed HF.88StrokeConflicting results have been reported on the association between thyroid dysfunction and stroke. Overt hyperthyroidism has been consistently associated with an increased risk of ischaemic stroke. Large cohort studies have reported that hyperthyroid adults have a moderately increased risk (up to 44%) of ischaemic stroke compared to euthyroid individuals, while no association was observed with haemorrhagic stroke (HR 1.13; 95% CI .88–1.47).83,89 These findings are supported by a meta-analysis of 11 cohort studies demonstrating a 35% increased risk of stroke in individuals with overt hyperthyroidism (HR 1.35; 95% CI 1.03–1.75).83 This association is biologically plausible given the prothrombotic state, increased atrial fibrillation burden, and adverse haemodynamic effects of excess thyroid hormone, which predominantly predispose to ischaemic rather than haemorrhagic stroke.90,91 In contrast, meta-analyses found no evidence of increased risk of stroke in subclinical hyperthyroidism.83,92 One IPD analysis using data from the TSC found no association between subclinical hypothyroidism and either stroke incidence or stroke-related mortality.93 However, age-stratified analyses suggested a potential age-dependent effect, with younger individuals (<50) showing a higher risk of stroke (HR 3.32 (95% CI: 1.25–8.80) whereas no association was observed in older adults.93 Overt hypothyroidism has not been associated with increased stroke risk, although available data remains limited.80Limitations of traditional observational studiesThe variability observed across epidemiologic studies likely reflects substantial heterogeneity in population characteristics (e.g. age distribution and iodine status), differences in thyroid function assays and reference ranges, and inconsistent definitions of SCTD and cardiovascular endpoints. Furthermore, observational studies of overt thyroid dysfunction may have underestimated risk estimates, as overt thyroid dysfunction is more likely to be diagnosed and treated. As summarized in Supplementary data online, Table S1, these sources of heterogeneity can meaningfully influence the magnitude and direction of associations with cardiovascular outcomes. Although IPD analyses improve analytical rigour by enabling standardized exposure and outcome definitions, harmonized covariate adjustment, and improved statistical power, their observational design inherently limits causal inference, and the resulting evidence is considered low- to moderate-quality evidence.Thyroid dysfunction and cardiovascular risk: evidence from Mendelian randomization studiesObservational studies are susceptible to confounding and reverse causation. While known confounders can be adjusted for, unmeasured factors may lead to spurious associations. Reverse causation can be illustrated with heart failure, where hypoxia-induced inflammation reduces cardiomyocyte deiodinase activity, lowering myocardial T3 levels.7 Moreover, a transient decline in serum thyroid hormones has been observed after acute MI and cardiac surgery.7In recent years, MR studies have increasingly been used to test for causality, as they are less likely to be affected by these two issues as compared to conventional observational studies. MR uses genetic variants as instrumental variables to test whether an exposure is causally associated with an outcome.94,95 The introduction of gene arrays has facilitated large-scale genome-wide association studies (GWAS), which supply the summary data necessary for conducting MR analyses.21 The ThyroidOmics Consortium (www.thyroidomics.com) integrates genomic and multi-omics data from 34 independent cohorts and has enabled extensive meta-analyses of GWAS focused on thyroid function traits.96It has been shown that genetically predicted lower TSH levels and hyperthyroidism are associated with an increased risk of atrial fibrillation with some studies suggesting height as a potential mediating factor.97,98 Conversely, the association between thyroid function and other cardiovascular outcomes in MR analyses has been less consistent. Findings from a bidirectional two-sample MR study published in 2024 identified hypothyroidism as a potential risk factor for coronary artery disease, angina pectoris, myocardial infarction (MI), and small vessel ischaemic stroke but did not find evidence of a causal association from atherosclerotic CVD to hypothyroidism.99 Consistently, another MR study reported a significant association between genetically predicted hypothyroidism and an increased risk of ischaemic stroke.96 A study published in 2020 reported an association between increasing levels of TSH within the normal range and reduced risk of stroke, with atrial fibrillation acting as a possible mediating factor.100 However, several other MR studies did not observe any causal relationships between thyroid function and other cardiovascular outcomes.97,98 In the opposite direction, a recent reverse MR study identified five plasma metabolites and sixteen immune cell traits that are causally associated with hypothyroidism risk.98However, MR studies are not without limitations and the absence of an observed association between thyroid function and certain cardiovascular outcomes in MR analyses does not necessarily imply that no causal relationship exists. Moreover, the validity of MR analyses depends on several key assumptions. Inappropriate selection of genetic variants as instruments, the presence of horizontal pleiotropy (when genetic variants influence the outcome through pathways independent of the exposure), or linkage disequilibrium (non-random association of alleles at different loci) can introduce bias into the results.99,101 Finally, MR analyses may sometimes lack statistical power for certain outcomes, and it is important to interpret MR findings alongside evidence from other study designs, as MR alone cannot establish causality.101Nevertheless, genetic insights gained from MR studies can help guide precision medicine, enabling personalized strategies for prevention and treatment of CVD while accounting for an individual’s thyroid function.102 Thyroid function tests exhibit low intraindividual variability but significant interindividual variation, which may reflect differences in each person's hypothalamic-pituitary-thyroid axis set point.10,103 However, the extent to which variation in this set point influences an individual’s cardiovascular risk remains unclear and warrants further investigation.10Effects of hormone replacement therapy in CVDSubstantial evidence supports the beneficial effects of LT4 treatment on cardiovascular risk in overt hypothyroidism.104 Several cardiac manifestations of overt hypothyroidism can be reversed by LT4 treatment, including hyperlipidaemia, hypertension, increased carotid intima-media thickness, decreased synthesis of endothelial-derived nitric oxide, and HF.2,10 It is important to acknowledge that conducting interventional studies in overt hypothyroidism is challenging due to ethical considerations, as current clinical guidelines universally recommend LT4 treatment for this group of patients.45,105Conversely, robust evidence regarding the effect of treatment of subclinical hypothyroidism on cardiovascular outcomes remains limited, primarily due to the predominance of data derived from observational studies and small-scale interventional trials.31 When considering LT4 therapy, it is essential to carefully weigh the potential benefits against the risks of overtreatment, particularly in older adults.7,106 Adverse health outcomes associated with overtreatment include iatrogenic thyrotoxicosis, which can lead to atrial fibrillation notably in older adults, and accelerated bone loss in particular among postmenopausal women.107 A recent meta-analysis reported that approximately 20% of patients receiving LT4 therapy were overtreated.108 These findings underscore the importance of adequately monitoring thyroid function tests among individuals undergoing LT4 treatment. Moreover, management of thyroid disorders in the context of pre-existing CVD warrants particular attention. Special care is required when treating subclinical hypothyroidism in patients with heart failure, as overtreatment may precipitate adverse events.7 Conversely, the potential clinical benefit of T3 therapy after cardiac surgery or acute MI remains uncertain.7,10In 2017, the largest RCT to date (TRUST), was published, assessing the effects of LT4 therapy in 737 older adults with subclinical hypothyroidism.109 The IEMO trial (n = 105) replicated the TRUST protocol in individuals aged 80 years and older.110 Both studies were underpowered to detect differences in cardiovascular events and mortality.109,110 Nevertheless, the two trials demonstrated a pattern towards a potential beneficial effect of LT4 on cardiovascular events with an HR of 0.89 (95% CI: .47–1.69) in the TRUST trial and an HR of 0.61 (95% CI: .24 to 1.50) in the IEMO trial.109,110 A 2024 IPD analysis of data primarily derived from the TRUST and IEMO trials found no significant difference in cardiovascular outcomes in individuals over 65 years old, regardless of LT4 therapy (HR 0.89, 95% CI .71–1.12).111A recently published population-based cohort study utilizing data from the United Kingdom Clinical Practice Research Datalink reported that LT4 treatment in individuals with subclinical hypothyroidism was associated with a reduced risk of major adverse cardiovascular events (HR 0.88; 95% confidence interval 0.83–0.93).112 This analysis included 76 946 LT4-treated patients matched to an equal number of untreated individuals. A systematic review investigating the effects of LT4 on cardiovascular outcomes in individuals with coexisting subclinical hypothyroidism and HF identified only two eligible studies, consisting of an RCT and a nationwide cohort study, and was therefore unable to draw reliable conclusions, further underscoring the paucity of high-quality evidence in this area.113 Similarly, a TRUST trial analysis examining the effects of LT4 on systolic and diastolic heart function among 185 older adults with subclinical hypothyroidism found no difference after treatment with LT4 compared with placebo.114 Another approach to address the evidence gaps regarding the effect of LT4 treatment on cardiovascular outcomes, beyond meta-analyses, would be to apply emulation methods using data from both RCTs and cohort studies.Evidence on the effects of LT4 treatment on surrogate markers of cardiovascular outcomes in subclinical hypothyroidism remains conflicting.115,116 A 2018 analysis from the TRUST trial, including 185 participants aged over 65, found that normalization of TSH with LT4 did not result in significant changes in carotid intima-media thickness (CIMT).116,117 These findings contrast with those of an earlier, smaller RCT of 45 participants with subclinical hypothyroidism, which reported a CIMT reduction of 0.09 mm (95% CI: .06–.11) after six months of achieving stable euthyroidism.117Current recommendations on the treatment of subclinical hypothyroidism
+
+Table 4
+ summarizes the recommendations of major international societies regarding the management of subclinical hypothyroidism.104,118,119 While guidelines recommend considering hypothyroid symptoms when initiating treatment, a secondary analysis of the TRUST trial showed symptom improvement even among participants receiving placebo.120 Overall, although some differences exist among societies, the major guidelines are broadly aligned. The divergence in international guidance likely reflects the limited strength of the available evidence. Notably, all major recommendations rely on relatively weak data, as no large RCT has been sufficiently powered to determine whether treatment provides clear cardiovascular benefits.109 While guidelines strive to be evidence-based, societies may differ in how they evaluate the strength of evidence, and in some areas, recommendations are made based on expert opinions, which invariably differ across organizations. This further highlights the current unmet need for adequately powered RCTs to determine whether treatment of subclinical hypothyroidism confers cardiovascular benefit. However, given that such trials have not been conducted to date and may not be feasible in the future, emulation trials or large prospective cohorts may be a pragmatic alternative to inform clinical practice. Moreover, while guidelines increasingly emphasize a personalized approach to managing subclinical hypothyroidism, such as using age-specific TSH reference ranges and consideration of comorbidities, future guidelines may also incorporate data from omics-based and genetic approaches as advances in these fields continue to emerge.Table 4Management of Subclinical Hypothyroidisma: Summary of ETA, NICE, and ATA GuidelinesTSH levelsEuropean Thyroid Association118National Institute for Health and Care Excellence119American Thyroid Association104
+TSH < 10 mIU/L
+
+Age ≤70 years: if presence of hypothyroid symptoms, initiate LT4. If absence of hypothyroid symptoms, observe and repeat TFT in 6 months• Age >70 years: observe and repeat TFT in 6 months
+
+Age <65 years: Consider a 6-month trial of LT4 if TSH above reference range but <10 mIU/L on two separate occasions 3 months apart and presence of hypothyroid symptoms
+
+Consider LT4 if presence of hypothyroid symptoms, positive TPOAb, or evidence of atherosclerotic cardiovascular disease, heart failure, or associated risk factors for these diseases
+
+TSH ≥ 10 mIU/L
+
+Age ≤70 years: initiate LT4Age >70 years: Consider LT4 if presence of clear hypothyroid symptoms or high vascular risk
+
+Consider LT4 if TSH ≥ 10 mIU/L on two separate occasions 3 months apart
+
+Consider LT4
+ETA, European Thyroid Association, NICE, National Institute for Health and Care Excellence, ATA, American Thyroid Association, TSH, thyroid stimulating hormone, LT4, levothyroxine treatment, TFT, thyroid function tests.
+aSubclinical hypothyroidism refers to individuals with elevated TSH and serum thyroxine within the reference range.ConclusionsThyroid dysfunction, in particular overt hypothyroidism, can be regarded as a modifiable risk factor for CVD, the leading cause of death worldwide. However, the lack of adequately powered RCTs assessing whether hormone replacement therapy can improve cardiovascular outcomes in SCTD has rendered it challenging to develop clear evidence-based guidelines. The use of omics-based research and genetic studies holds future potential for clinical translation by enabling personalized care, tailoring treatment, and identifying which individuals with thyroid disorders may benefit most from intervention. Moreover, the conduct of larger clinical trials and the use of emulation methods may help resolve uncertainties and guide clinical practice in the future. A better understanding of the relationship between thyroid dysfunction and cardiovascular risk factors may contribute to more effective strategies for addressing the CVD epidemic.Supplementary Materialehag248_Supplementary_DataAcknowledgementsArtificial intelligence (ChatGPT) was used to improve the fluency and readability of certain sections of this manuscript.Contributor InformationHeba Alwan, 
+Institute of Primary Health Care (BIHAM), University of Bern, Bern 3012, Switzerland; 
+Department of Endocrinology, Diabetes and Metabolism, Lausanne University Hospital, University of Lausanne, Lausanne 1011, Switzerland.Ola Hysaj, 
+Institute of Primary Health Care (BIHAM), University of Bern, Bern 3012, Switzerland; 
+Graduate School for Health Sciences, University of Bern, Bern, Switzerland.Baris Gencer, 
+Institute of Primary Health Care (BIHAM), University of Bern, Bern 3012, Switzerland; 
+Department of Cardiology, Lausanne University Hospital (CHUV) and University of Lausanne, Lausanne 1011, Switzerland.Leonidas Duntas, 
+Thyroid Section, Unit of Endocrinology, Diabetes and Metabolism, Evgenideion Hospital, National and Kapodistrian University of Athens, Athens, Greece.Nicolas Rodondi, 
+Institute of Primary Health Care (BIHAM), University of Bern, Bern 3012, Switzerland; 
+Department of General Internal Medicine, Inselspital, Bern University Hospital, University of Bern, Bern 3010, Switzerland.Supplementary dataSupplementary data are available at the European Heart Journal online.DeclarationsDisclosure of InterestNothing to declare.Data AvailabilityNo data were generated or analysed for or in support of this paper.FundingThis review and the TSC are supported by grants from the Swiss National Science Foundation (SNSF 320033-200606 and 320030-231242 to Nicolas Rodondi and PZ00P3_216128 to Heba Alwan). The Swiss National Science Foundation did not have any role in the collection, management, analysis, and interpretation of the data, or preparation, review, or approval of the manuscript.References1.
+
+Chong  B, Jayabaskaran  J, Jauhari  SM, Chan  SP, Goh  R, Kueh  MTW, et al.   Global burden of cardiovascular diseases: projections from 2025 to 2050. Eur J Prev Cardiol  2024;32:1001–15. 10.1093/eurjpc/zwae2812.
+
+Klein  I, Ojamaa  K. Thyroid hormone and the cardiovascular system. N Engl J Med  2001;344:501–9. 10.1056/NEJM200102153440707
+3.
+
+Hönes  GS, Rakov  H, Logan  J, Liao  X-H, Werbenko  E, Pollard  AS, et al.   Noncanonical thyroid hormone signaling mediates cardiometabolic effects in vivo. Proc Natl Acad Sci U S A  2017;114:E11323–32. 10.1073/pnas.1706801115
+4.
+
+Kahaly  GJ, Dillmann  WH. Thyroid hormone action in the heart. Endocr Rev  2005;26:704–28. 10.1210/er.2003-0033
+5.
+
+Yamakawa  H, Kato  TS, Noh  JY, Yuasa  S, Kawamura  A, Fukuda  K, et al.   Thyroid hormone plays an important role in cardiac function: from bench to bedside. Front Physiol  2021;12:606931. 10.3389/fphys.2021.606931
+6.
+
+Grais  IM, Sowers  JR. Thyroid and the heart. Am J Med  2014;127:691–8. 10.1016/j.amjmed.2014.03.009
+7.
+
+Jabbar  A, Pingitore  A, Pearce  SHS, Zaman  A, Iervasi  G, Razvi  S. Thyroid hormones and cardiovascular disease. Nat Rev Cardiol  2017;14:39–55. 10.1038/nrcardio.2016.174
+8.
+
+He  H, Giordano  FJ, Hilal-Dandan  R, Choi  DJ, Rockman  HA, McDonough  PM, et al.   Overexpression of the rat sarcoplasmic reticulum Ca2+ ATPase gene in the heart of transgenic mice accelerates calcium transients and cardiac relaxation. J Clin Invest  1997;100:380–9. 10.1172/JCI119544
+9.
+
+Charest  A, Nasta  N, Siddiqui  S, Menkes  S, Thomas  A, Saad  D, et al.   Nanoscale organization of cardiac calcium channels is dependent on thyroid hormone status. Am J Physiol Heart Circ Physiol  2024;327:H1309–26. 10.1152/ajpheart.00272.2024
+10.
+
+Cappola  AR, Desai  AS, Medici  M, Cooper  LS, Egan  D, Sopko  G, et al.   Thyroid and cardiovascular disease: research agenda for enhancing knowledge, prevention, and treatment. Circulation  2019;139:2892–909. 10.1161/CIRCULATIONAHA.118.036859
+11.
+
+Hoit  BD, Khoury  SF, Shao  Y, Gabel  M, Liggett  SB, Walsh  RA. Effects of thyroid hormone on cardiac beta-adrenergic responsiveness in conscious baboons. Circulation  1997;96:592–8. 10.1161/01.CIR.96.2.592
+12.
+
+Sykora  M, Szeiffova Bacova  B, Egan Benova  T, Barancik  M, Zurmanova  J, Rauchova  H, et al.   Cardiac Cx43 and ECM responses to altered thyroid Status are blunted in spontaneously hypertensive versus normotensive rats. Int J Mol Sci  2019;20:3758. 10.3390/ijms20153758
+13.
+
+Zhang  S, Li  R, Ma  Y, Yan  Y, Ma  M, Zhang  K, et al.   Thyroid-stimulating hormone regulates cardiac function through modulating. FASEB J  2022;36:e22561. 10.1096/fj.202200574R
+14.
+
+Diniz  GP, Lino  CA, Moreno  CR, Senger  N, Barreto-Chaves  MLM. MicroRNA-1 overexpression blunts cardiomyocyte hypertrophy elicited by thyroid hormone. J Cell Physiol  2017;232:3360–8. 10.1002/jcp.25781
+15.
+
+Pachucki  J, Burmeister  LA, Larsen  PR. Thyroid hormone regulates hyperpolarization-activated cyclic nucleotide-gated channel (HCN2) mRNA in the rat heart. Circ Res  1999;85:498–503. 10.1161/01.RES.85.6.498
+16.
+
+Fernandez-Ruocco  J, Gallego  M, Rodriguez-de-Yurre  A, Zayas-Arrabal  J, Echeazarra  L, Alquiza  A, et al.   High thyrotropin is critical for cardiac electrical rRemodelling and arrhythmia vulnerability in hypothyroidism. Thyroid  2019;29:934–45. 10.1089/thy.2018.0709
+17.
+
+Razvi  S, Jabbar  A, Pingitore  A, Danzi  S, Biondi  B, Klein  I, et al.   Thyroid hormones and cardiovascular function and diseases. J Am Coll Cardiol  2018;71:1781–96. 10.1016/j.jacc.2018.02.045
+18.
+
+Bakker  O, Hudig  F, Meijssen  S, Wiersinga  WM. Effects of triiodothyronine and amiodarone on the promoter of the human LDL receptor gene. Biochem Biophys Res Commun  1998;249:517–21. 10.1006/bbrc.1998.9174
+19.
+
+Mendoza  A, Tang  C, Choi  J, Acuña  M, Logan  M, Martin  AG, et al.   Thyroid hormone signaling promotes hepatic lipogenesis through the transcription factor ChREBP. Sci Signal  2021;14:eabh3839. 10.1126/scisignal.abh3839
+20.
+
+Sinha  RA, Singh  BK, Yen  PM. Direct effects of thyroid hormones on hepatic lipid metabolism. Nat Rev Endocrinol  2018;14:259–69. 10.1038/nrendo.2018.10
+21.
+
+Hasin  Y, Seldin  M, Lusis  A. Multi-omics approaches to disease. Genome Biol  2017;18:83. 10.1186/s13059-017-1215-1
+22.
+
+Pietzner  M, Kacprowski  T, Friedrich  N. Empowering thyroid hormone research in human subjects using OMICs technologies. J Endocrinol  2018;238:R13–29. 10.1530/JOE-18-0117
+23.
+
+Benabdelkamel  H, Jaber  MA, Dahabiyeh  LA, Masood  A, Almalki  RH, Musambil  M, et al.   Metabolomic profile of patients on levothyroxine treatment for hypothyroidism. Eur Thyroid J  2023;12:e230062. 10.1530/ETJ-23-0062
+24.
+
+Pietzner  M, Engelmann  B, Kacprowski  T, Golchert  J, Dirk  A-L, Hammer  E, et al.   Plasma proteome and metabolome characterization of an experimental human thyrotoxicosis model. BMC Med  2017;15:6. 10.1186/s12916-016-0770-8
+25.
+
+Lange  T, Budde  K, Homuth  G, Kastenmuller  G, Artati  A, Krumsiek  J, et al.   Comprehensive metabolic profiling reveals a lipid-rich fingerprint of free thyroxine far beyond classic parameters. J Clin Endocrinol Metab  2018;103:2050–60. 10.1210/jc.2018-00183
+26.
+
+Mischak  H, Schanstra  JP, Vlahou  A, Beige  J. Clinical proteomics, quo vadis?  PROTEOMICS  2025;25:e202400346. 10.1002/pmic.202400346
+27.
+
+Diekman  T, Demacker  PN, Kastelein  JJ, Stalenhoef  AF, Wiersinga  WM. Increased oxidizability of low-density lipoproteins in hypothyroidism. J Clin Endocrinol Metab  1998;83:1752–5. 10.1210/jcem.83.5.4759
+28.
+
+Tzotzas  T, Krassas  GE, Konstantinidis  T, Bougoulia  M. Changes in lipoprotein(a) levels in overt and subclinical hypothyroidism before and during treatment. Thyroid  2000;10:803–8. 10.1089/thy.2000.10.803
+29.
+
+Duntas  LH. Thyroid disease and lipids. Thyroid  2002;12:287–93. 10.1089/10507250252949405
+30.
+
+Bielecka-Dabrowa  A, Mikhailidis  DP, Rysz  J, Banach  M. The mechanisms of atrial fibrillation in hyperthyroidism. Thyroid Res  2009;2:4. 10.1186/1756-6614-2-4
+31.
+
+Tayal  B, Graff  C, Selmer  C, Kragholm  KH, Kihlstrom  M, Nielsen  JB, et al.   Thyroid dysfunction and electrocardiographic changes in subjects without arrhythmias: a cross-sectional study of primary healthcare subjects from Copenhagen. BMJ Open  2019;9:e023854. 10.1136/bmjopen-2018-02385432.
+
+Klausen  IC, Hegedüs  L, Hansen  PS, Nielsen  FE, Gerdes  LU, Faergeman  O. Apolipoprotein(a) phenotypes and lipoprotein(a) concentrations in patients with hyperthyroidism. J Mol Med (Berl)  1995;73:41–6. 10.1007/BF00203618
+33.
+
+Lin  C, Kuo  F-C, Chau  T, Shih  J-H, Lin  C-S, Chen  C-C, et al.   Artificial intelligence-enabled electrocardiography contributes to hyperthyroidism detection and outcome prediction. Commun Med (Lond)  2024;4:42. 10.1038/s43856-024-00472-4
+34.
+
+Popławska-Kita  A, Siewko  K, Telejko  B, Modzelewska  A, Myśliwiec  J, Milewski  R, et al.   The changes in the endothelial function and haemostatic and inflammatory parameters in subclinical and overt hyperthyroidism. Int J Endocrinol  2013;2013:1–7. 10.1155/2013/98163835.
+
+Li  Y-H, Lee  IT. Hyperthyroidism and vascular cell adhesion molecule-1 are associated with a low ankle-brachial index. Sci Rep  2020;10:17076. 10.1038/s41598-020-74267-7
+36.
+
+Hou  L-y, Li  X, Zhang  G-q, Xi  C, Shen  C-t, Song  H-j, et al.   Transiently impaired endothelial function during thyroid hormone withdrawal in differentiated thyroid cancer patients. Front Endocrinol (Lausanne)  2023;14:1164789. 10.3389/fendo.2023.1164789
+37.
+
+Gamal  Y, Badawy  A, Ali  AM, Farghaly  HS, Metwalley  KA, Gaber  N, et al.   Endothelial dysfunction in children with newly diagnosed Graves’ disease. Eur J Pediatr  2023;182:2793–800. 10.1007/s00431-023-04919-z
+38.
+
+Beyer  C, Plank  F, Friedrich  G, Wildauer  M, Feuchtner  G. Effects of hyperthyroidism on coronary artery disease: a computed tomography angiography study. Can J Cardiol  2017;33:1327–34. 10.1016/j.cjca.2017.07.002
+39.
+
+Patrizio  A, Ferrari  SM, Elia  G, Ragusa  F, Balestri  E, Botrini  C, et al.   Hypothyroidism and metabolic cardiovascular disease. Front Endocrinol (Lausanne)  2024;15:1408684. 10.3389/fendo.2024.1408684
+40.
+
+Bernardi  S, Grillo  A, Antonello  RM, Cola  MF, Dobrinja  C, Fabris  B, et al.   Meta-analysis on the association between thyroid hormone disorders and arterial stiffness. J Endocr Soc  2022;6:bvac016. 10.1210/jendso/bvac016
+41.
+
+Niri  T, Horie  I, Ando  T, Kawahara  H, Ueda  M, Eto  M, et al.   Renal function and plasma renin activity as potential factors causing hyperkalemia in patients with thyroid carcinoma undergoing thyroid hormone withdrawal for radioactive iodine therapy. Endocr Pract  2020;26:197–206. 10.4158/EP-2019-0374
+42.
+
+Kim  HJ, McLeod  DSA. Subclinical hyperthyroidism and cardiovascular disease. Thyroid®  2024;34:1335–45. 10.1089/thy.2024.0291
+43.
+
+Biondi  B, Palmieri  EA, Fazio  S, Cosco  C, Nocera  M, Saccà  L, et al.   Endogenous subclinical hyperthyroidism affects quality of life and cardiac morphology and function in young and middle-aged patients. J Clin Endocrinol Metab  2000;85:4701–5. 10.1210/jcem.85.12.7085
+44.
+
+Biondi  B, Fazio  S, Palmieri  EA, Carella  C, Panza  N, Cittadini  A, et al.   Left ventricular diastolic dysfunction in patients with subclinical hypothyroidism. J Clin Endocrinol Metab  1999;84:2064–7. 10.1210/jcem.84.6.5733
+45.
+
+Wang  X, Wang  H, Li  Q, Wang  P, Xing  Y, Zhang  F, et al.   Effect of levothyroxine supplementation on the cardiac morphology and function in patients with subclinical hypothyroidism: a systematic review and meta-analysis. J Clin Endocrinol Metab  2022;107:2674–83. 10.1210/clinem/dgac417
+46.
+
+Larsen  CB, Riis  KR, Winther  KH, Larsen  EL, Ellervik  C, Hegedüs  L, et al.   Treatment of hyperthyroidism reduces systemic oxidative stress, as measured by markers of RNA and DNA damage. J Clin Endocrinol Metab  2021;106:e2512–20. 10.1210/clinem/dgab273
+47.
+
+Siddiq  A, Naveed  AK, Ghaffar  N, Aamir  M, Ahmed  N. Association of pro-inflammatory cytokines with vitamin D in Hashimoto’s thyroid autoimmune disease. Medicina (B Aires)  2023;59:853. 10.3390/medicina5905085348.
+
+Ghosh  H, Biswas  D, Pramanik  S, Chowdhury  S. Analysis of risk factors and predictive modelling of biomarkers in subclinical hypothyroidism and implications for levothyroxine therapy in disease management. Sci Rep  2025;15:40946. 10.1038/s41598-025-24721-1
+49.
+
+Biondi  B, Cooper  DS. The clinical significance of subclinical thyroid dysfunction. Endocr Rev  2008;29:76–131. 10.1210/er.2006-0043
+50.
+
+Biondi  B, Cooper  DS. Subclinical hyperthyroidism. N Engl J Med  2018;378:2411–9. 10.1056/NEJMcp1709318
+51.
+
+Biondi  B, Kahaly  GJ. Cardiovascular involvement in patients with different causes of hyperthyroidism. Nat Rev Endocrinol  2010;6:431–43. 10.1038/nrendo.2010.105
+52.
+
+Cappola  AR, Arnold  AM, Wulczyn  K, Carlson  M, Robbins  J, Psaty  BM. Thyroid function in the euthyroid range and adverse outcomes in older adults. J Clin Endocrinol Metab  2015;100:1088–96. 10.1210/jc.2014-3586
+53.
+
+Chaker  L, Baumgartner  C, den Elzen  WP, Collet  TH, Ikram  MA, Blum  MR, et al.   Thyroid function within the reference range and the risk of stroke: an individual participant data analysis. J Clin Endocrinol Metab  2016;101:4270–82. 10.1210/jc.2016-2255
+54.
+
+Chaker  L, Cooper  DS, Walsh  JP, Peeters  RP. Hyperthyroidism. The Lancet  2024;403:768–80. 10.1016/S0140-6736(23)02016-055.
+
+Collet  TH, Gussekloo  J, Bauer  DC, den Elzen  WP, Cappola  AR, Balmer  P, et al.   Subclinical hyperthyroidism and the risk of coronary heart disease and mortality. Arch Intern Med  2012;172:799–809. 10.1001/archinternmed.2012.402
+56.
+
+Rodondi  N, den Elzen  WP, Bauer  DC, Cappola  AR, Razvi  S, Walsh  JP, et al.   Subclinical hypothyroidism and the risk of coronary heart disease and mortality. JAMA  2010;304:1365–74. 10.1001/jama.2010.1361
+57.
+
+Baumgartner  C, da Costa  BR, Collet  TH, Feller  M, Floriani  C, Bauer  DC, et al.   Thyroid function within the normal range, subclinical hypothyroidism, and the risk of atrial fibrillation. Circulation  2017;136:2100–16. 10.1161/CIRCULATIONAHA.117.028753
+58.
+
+Gencer  B, Collet  TH, Virgini  V, Bauer  DC, Gussekloo  J, Cappola  AR, et al.   Subclinical thyroid dysfunction and the risk of heart failure events: an individual participant data analysis from 6 prospective cohorts. Circulation  2012;126:1040–9. 10.1161/CIRCULATIONAHA.112.096024
+59.
+
+Jung  CH, Sung  KC, Shin  HS, Rhee  EJ, Lee  WY, Kim  BS, et al.   Thyroid dysfunction and their relation to cardiovascular risk factors such as lipid profile, hsCRP, and waist hip ratio in Korea. Korean J Intern Med  2003;18:146–53. 10.3904/kjim.2003.18.3.146
+60.
+
+Kanaya  AM, Harris  F, Volpato  S, Pérez-Stable  EJ, Harris  T, Bauer  DC. Association between thyroid dysfunction and total cholesterol level in an older biracial population: the health, aging and body composition study. Arch Intern Med  2002;162:773–9. 10.1001/archinte.162.7.773
+61.
+
+Rizos  CV, Elisaf  MS, Liberopoulos  EN. Effects of thyroid dysfunction on lipid profile. Open Cardiovasc Med J  2011;5:76–84. 10.2174/1874192401105010076
+62.
+
+Kotwal  A, Cortes  T, Genere  N, Hamidi  O, Jasim  S, Newman  CB, et al.   Treatment of thyroid dysfunction and Serum lipids: a systematic review and meta-analysis. J Clin Endocrinol Metab  2020;105:3683–94. 10.1210/clinem/dgaa67263.
+
+Bauer  DC, Ettinger  B, Browner  WS. Thyroid functions and serum lipids in older women: a population-based study. Am J Med  1998;104:546–51. 10.1016/S0002-9343(98)00116-8
+64.
+
+Martínez-Triguero  ML, Hernández-Mijares  A, Nguyen  TT, Muñoz  ML, Peña  H, Morillas  C, et al.   Effect of thyroid hormone replacement on lipoprotein(a), lipids, and apolipoproteins in subjects with hypothyroidism. Mayo Clin Proc  1998;73:837–41. 10.4065/73.9.837
+65.
+
+Baretella  O, Blum  MR, Abolhassani  N, Alwan  H, Wildisen  L, Del Giovane  C, et al.   Associations between subclinical thyroid dysfunction and cardiovascular risk factors according to age and sex. J Clin Endocrinol Metab  2025;110:e1315–22. 10.1210/clinem/dgae860
+66.
+
+Jonklaas  J. Hypothyroidism, lipids, and lipidomics. Endocrine  2023;84:293–300. 10.1007/s12020-023-03420-9
+67.
+
+Luo  Y, Wu  F, Huang  Z, Gong  Y, Zheng  Y. Assessment of the relationship between subclinical hypothyroidism and blood lipid profile: reliable or not?  Lipids Health Dis  2022;21:137. 10.1186/s12944-022-01749-0
+68.
+
+Rugge  JB, Bougatsos  C, Chou  R. Screening and treatment of thyroid dysfunction: an evidence review for the U.S. Preventive services task force. Ann Intern Med  2015;162:35–45. 10.7326/M14-1456
+69.
+
+Prisant  LM, Gujral  JS, Mulloy  AL. Hyperthyroidism: a secondary cause of isolated systolic hypertension. J Clin Hypertens (Greenwich)  2006;8:596–9. 10.1111/j.1524-6175.2006.05180.x
+70.
+
+Rivas  AM, Pena  C, Kopel  J, Dennis  JA, Nugent  K. Hypertension and hyperthyroidism: association and pathogenesis. Am J Med Sci  2021;361:3–7. 10.1016/j.amjms.2020.08.012
+71.
+
+Stabouli  S, Papakatsika  S, Kotsis  V. Hypothyroidism and hypertension. Expert Rev Cardiovasc Ther  2010;8:1559–65. 10.1586/erc.10.141
+72.
+
+Cai  Y, Ren  Y, Shi  J. Blood pressure levels in patients with subclinical thyroid dysfunction: a meta-analysis of cross-sectional data. Hypertens Res  2011;34:1098–105. 10.1038/hr.2011.91
+73.
+
+Völzke  H, Ittermann  T, Schmidt  CO, Dörr  M, John  U, Wallaschofski  H, et al.   Subclinical hyperthyroidism and blood pressure in a population-based prospective cohort study. Eur J Endocrinol  2009;161:615–21. 10.1530/EJE-09-0376
+74.
+
+Darouei  B, Amani-Beni  R, Abhari  AP, Fakhrolmobasheri  M, Shafie  D, Heidarpour  M. Systematic review and meta-analysis of levothyroxine effect on blood pressure in patients with subclinical hypothyroidism. Curr Probl Cardiol  2024;49:102204. 10.1016/j.cpcardiol.2023.102204
+75.
+
+Tefera  EM, Tefera  YM, Yimer  M, Mulat Worku  B, Ayele  E, Zewdu Asmare  B, et al.   Atrial fibrillation and associated factors among hyperthyroidism patients attending at university of gondar comprehensive specialized hospital, northwest Ethiopia. Clin Med Insights Endocrinol Diabetes  2024;17:11795514241285347. 10.1177/11795514241285347
+76.
+
+Huang  M, Yang  S, Ge  G, Zhi  H, Wang  L. Effects of thyroid dysfunction and the thyroid-stimulating hormone levels on the risk of atrial fibrillation: a systematic review and dose-response meta-analysis from cohort studies. Endocr Pract  2022;28:822–31. 10.1016/j.eprac.2022.05.008
+77.
+
+Kostopoulos  G, Effraimidis  G. Epidemiology, prognosis, and challenges in the management of hyperthyroidism-related atrial fibrillation. Eur Thyroid J  2024;13:e230254. 10.1530/ETJ-23-0254
+78.
+
+Chaker  L, Heeringa  J, Dehghan  A, Medici  M, Visser  WE, Baumgartner  C, et al.   Normal thyroid function and the risk of atrial fibrillation: the Rotterdam study. J Clin Endocrinol Metab  2015;100:3718–24. 10.1210/jc.2015-2480
+79.
+
+Singh  H, Shahid  MZ, Harrison  SL, Lane  DA, Lip  GYH, Logantha  S. Subclinical thyroid dysfunction and the risk of incident atrial fibrillation: a systematic review and meta-analysis. PLoS One  2024;19:e0296413. 10.1371/journal.pone.0296413
+80.
+
+Ning  Y, Cheng  YJ, Liu  LJ, Sara  JD, Cao  ZY, Zheng  WP, et al.   What is the association of hypothyroidism with risks of cardiovascular events and mortality? A meta-analysis of 55 cohort studies involving 1,898,314 participants. BMC Med  2017;15:21. 10.1186/s12916-017-0777-9
+81.
+
+Brandt  F, Green  A, Hegedüs  L, Brix  TH. A critical review and meta-analysis of the association between overt hyperthyroidism and mortality. Eur J Endocrinol  2011;165:491–7. 10.1530/EJE-11-0299
+82.
+
+Selmer  C, Olesen  JB, Hansen  ML, von Kappelgaard  LM, Madsen  JC, Hansen  PR, et al.   Subclinical and overt thyroid dysfunction and risk of all-cause mortality and cardiovascular events: a large population study. J Clin Endocrinol Metab  2014;99:2372–82. 10.1210/jc.2013-4184
+83.
+
+Sohn  SY, Lee  E, Lee  MK, Lee  JH. The association of overt and subclinical hyperthyroidism with the risk of cardiovascular events and cardiovascular mortality: meta-analysis and systematic review of cohort studies. Endocrinol Metab (Seoul)  2020;35:786–800. 10.3803/EnM.2020.728
+84.
+
+Bremner  AP, Feddema  P, Leedman  PJ, Brown  SJ, Beilby  JP, Lim  EM, et al.   Age-related changes in thyroid function: a longitudinal study of a community-based cohort. J Clin Endocrinol Metab  2012;97:1554–62. 10.1210/jc.2011-3020
+85.
+
+Kvetny  J, Heldgaard  PE, Bladbjerg  EM, Gram  J. Subclinical hypothyroidism is associated with a low-grade inflammation, increased triglyceride levels and predicts cardiovascular disease in males below 50 years. Clin Endocrinol (Oxf)  2004;61:232–8. 10.1111/j.1365-2265.2004.02088.x
+86.
+
+Razvi  S, Shakoor  A, Vanderpump  M, Weaver  JU, Pearce  SH. The influence of age on the relationship between subclinical hypothyroidism and ischaemic heart disease: a metaanalysis. J Clin Endocrinol Metab  2008;93:2998–3007. 10.1210/jc.2008-0167
+87.
+
+Fan  SWD, Ong  LT. Prevalence and risk factors of heart failure in patients diagnosed with hyperthyroidism: a systematic review and meta-analysis. touchREV Endocrinol  2024;20:91–9. 10.17925/EE.2024.20.2.12
+88.
+
+Petersen  JK, Selmer  C, Kristensen  SL, Rørth  R, Yafasova  A, Vejlstrup  LGB, et al.   Prognostic impact of thyroid function in patients with incident heart failure: a nationwide study. J Card Fail  2024;31:1118–26. 10.1016/j.cardfail.2024.11.010
+89.
+
+Kim  HJ, Kang  T, Kang  MJ, Ahn  HS, Sohn  SY. Incidence and mortality of myocardial infarction and stroke in patients with hyperthyroidism: a nationwide cohort study in Korea. Thyroid  2020;30:955–65. 10.1089/thy.2019.0543
+90.
+
+Squizzato  A, Gerdes  VEA, Brandjes  DPM, Büller  HR, Stam  J. Thyroid diseases and cerebrovascular disease. Stroke  2005;36:2302–10. 10.1161/01.STR.0000181772.78492.07
+91.
+
+Wong  CL, Tam  HV, Fok  CV, Lam  PE, Fung  LM. Thyrotoxic atrial fibrillation: factors associated with persistence and risk of iIschaemic stroke. J Thyroid Res  2017;2017:4259183. 10.1155/2017/4259183
+92.
+
+Chaker  L, Baumgartner  C, Ikram  MA, Dehghan  A, Medici  M, Visser  WE, et al.   Subclinical thyroid dysfunction and the risk of stroke: a systematic review and meta-analysis. Eur J Epidemiol  2014;29:791–800. 10.1007/s10654-014-9946-8
+93.
+
+Chaker  L, Baumgartner  C, den Elzen  WP, Ikram  MA, Blum  MR, Collet  TH, et al.   Subclinical hypothyroidism and the risk of stroke events and fatal stroke: an individual participant data analysis. J Clin Endocrinol Metab  2015;100:2181–91. 10.1210/jc.2015-1438
+94.
+
+Alwan  H, Ja  L, Williamson  A, Carrasco-Zanini  J, Stewart  ID, Wareham  NJ, et al.   Testing for a causal role of thyroid hormone measurements within the normal range on human metabolism and diseases: a systematic Mendelian randomization. EBioMedicine  2024;107:105306. 10.1016/j.ebiom.2024.105306
+95.
+
+Davies  NM, Holmes  MV, Davey Smith  G. Reading Mendelian randomisation studies: a guide, glossary, and checklist for clinicians. BMJ  2018;362:k601. 10.1136/bmj.k601
+96.
+
+Sterenborg  RBTM, Steinbrenner  I, Li  Y, Bujnis  MN, Naito  T, Marouli  E, et al.   Multi-trait analysis characterizes the genetics of thyroid function and identifies causal associations with clinical implications. Nat Commun  2024;15:888. 10.1038/s41467-024-44701-9
+97.
+
+Larsson  SC, Allara  E, Mason  AM, Michaëlsson  K, Burgess  S. Thyroid function and dysfunction in relation to 16 cardiovascular diseases: a Mendelian randomization study. Circ Genom Precis Med  2019;12:e002468. 10.1161/CIRCGEN.118.002468
+98.
+
+Ruan  W, Zhou  X, Li  J, Wang  T, Liu  H, Zhang  G, et al.   Thyroid function effect on cardiac structure, cardiac function, and disease risk: evidence of causal associations in European ancestry. Heart Rhythm  2024;21:2272–81. 10.1016/j.hrthm.2024.05.021
+99.
+
+Li  J, Wang  Y, Luo  X, Meng  T, Li  C, Li  J, et al.   Causal relationship between hypothyroidism and coronary atherosclerotic cardiovascular disease: a bidirectional two-sample Mendelian randomization. Front Cardiovasc Med  2024;11:1402359. 10.3389/fcvm.2024.1402359
+100.
+
+Marouli  E, Kus  A, Del Greco  MF, Chaker  L, Peeters  R, Teumer  A, et al.   Thyroid function affects the risk of stroke via atrial fibrillation: a Mendelian randomization study. J Clin Endocrinol Metab  2020;105:2634–41. 10.1210/clinem/dgaa239
+101.
+
+Burgess  S, Woolf  B, Mason  AM, Ala-Korpela  M, Gill  D. Addressing the credibility crisis in Mendelian randomization. BMC Med  2024;22:374. 10.1186/s12916-024-03607-5
+102.
+
+O'Donnell  CJ. Mendelian randomization evidence for cardiovascular precision medicine. JAMA Cardiol  2018;3:627–8. 10.1001/jamacardio.2018.1543
+103.
+
+Floriani  C, Gencer  B, Collet  TH, Rodondi  N. Subclinical thyroid dysfunction and cardiovascular diseases: 2016 update. Eur Heart J  2018;39:503–7. 10.1093/eurheartj/ehx050
+104.
+
+Garber  JR, Cobin  RH, Gharib  H, Hennessey  JV, Klein  I, Mechanick  JI, et al.   Clinical practice guidelines for hypothyroidism in adults: cosponsored by the American association of clinical endocrinologists and the American thyroid association. Thyroid  2012;22:1200–35. 10.1089/thy.2012.0205
+105.
+
+Biondi  B. Levothyroxine and the heart. In: Kahaly  GJ (ed.), 70 Years of Levothyroxine. Cham: Springer International Publishing, 2021, p85–96.106.
+
+Hennessey  JV, Espaillat  R. Diagnosis and management of subclinical hypothyroidism in elderly adults: a review of the literature. J Am Geriatr Soc  2015;63:1663–73. 10.1111/jgs.13532
+107.
+
+Garber  JR, Cobin  RH, Gharib  H, Hennessey  JV, Klein  I, Mechanick  JI, et al.   Clinical practice guidelines for hypothyroidism in adults: cosponsored by the American association of clinical endocrinologists and the American thyroid Association. Endocr Pract  2012;18:988–1028. 10.4158/EP12280.GL
+108.
+
+Efthymiadis  A, Henry  M, Spinos  D, Bourlaki  M, Tsikopoulos  A, Bourazana  A, et al.   Adequacy of thyroid hormone replacement for people with hypothyroidism in real-world settings: a systematic review and meta-analysis of observational studies. Clin Endocrinol (Oxf)  2024;100:488–501. 10.1111/cen.14998
+109.
+
+Stott  DJ, Rodondi  N, Kearney  PM, Ford  I, Westendorp  RGJ, Mooijaart  SP, et al.   Thyroid hormone therapy for older adults with subclinical hypothyroidism. N Engl J Med  2017;376:2534–44. 10.1056/NEJMoa1603825
+110.
+
+Mooijaart  SP, Du Puy  RS, Stott  DJ, Kearney  PM, Rodondi  N, Westendorp  RGJ, et al.   Association between levothyroxine treatment and thyroid-related symptoms among adults aged 80 years and older with subclinical hypothyroidism. JAMA  2019;322:1977–86. 10.1001/jama.2019.17274
+111.
+
+Holley  M, Razvi  S, Farooq  MS, Dew  R, Maxwell  I, Wilkes  S. Cardiovascular and bone health outcomes in older people with subclinical hypothyroidism treated with levothyroxine: a systematic review and meta-analysis. Syst Rev  2024;13:123. 10.1186/s13643-024-02548-7
+112.
+
+Yu  OHY, Filliter  C, Filion  KB, Platt  RW, Grad  R, Renoux  C. Levothyroxine treatment of subclinical hypothyroidism and the risk of adverse cardiovascular events. Thyroid®  2024;34:1214–24. 10.1089/thy.2024.0227
+113.
+
+Triggiani  V, Cittadini  A, Lisco  G. Effect of levothyroxine replacement therapy in patients with subclinical hypothyroidism and chronic heart failure: a systematic review. Front Endocrinol (Lausanne)  2022;13:1013641. 10.3389/fendo.2022.1013641
+114.
+
+Gencer  B, Moutzouri  E, Blum  MR, Feller  M, Collet  TH, Delgiovane  C, et al.   The impact of levothyroxine on cardiac function in older adults with mild subclinical hypothyroidism: a randomized clinical trial. Am J Med  2020;133:848–56.e845. 10.1016/j.amjmed.2020.01.018
+115.
+
+Blum  MR, Gencer  B, Adam  L, Feller  M, Collet  TH, da Costa  BR, et al.   Impact of thyroid hormone therapy on atherosclerosis in the elderly with subclinical hypothyroidism: a randomized trial. J Clin Endocrinol Metab  2018;103:2988–97. 10.1210/jc.2018-00279
+116.
+
+Monzani  F, Caraccio  N, Kozàkowà  M, Dardano  A, Vittone  F, Virdis  A, et al.   Effect of levothyroxine replacement on lipid profile and intima-Media thickness in subclinical hypothyroidism: a double-blind, placebo- controlled study. The J Clin Endocrinol Metab  2004;89:2099–106. 10.1210/jc.2003-031669
+117.
+
+Lorenz  MW, Markus  HS, Bots  ML, Rosvall  M, Sitzer  M. Prediction of clinical cardiovascular events with carotid intima-media thickness: a systematic review and meta-analysis. Circulation  2007;115:459–67. 10.1161/CIRCULATIONAHA.106.628875
+118.
+
+Pearce  SH, Brabant  G, Duntas  LH, Monzani  F, Peeters  RP, Razvi  S, et al.   2013 ETA guideline: management of subclinical hypothyroidism. Eur Thyroid J  2013;2:215–28. 10.1159/000356507
+119.
+
+Vasileiou  M, Gilbert  J, Fishburn  S, Boelaert  K. Thyroid disease assessment and management: summary of NICE guidance. Bmj  2020;368:m41. 10.1136/bmj.m41
+120.
+
+de Montmollin  M, Feller  M, Beglinger  S, McConnachie  A, Aujesky  D, Collet  TH, et al.   L-Thyroxine Therapy for older adults with subclinical hypothyroidism and hypothyroid symptoms: secondary analysis of a randomized trial. Ann Intern Med  2020;172:709–16. 10.7326/M19-3193
+Associated DataSupplementary Materialsehag248_Supplementary_DataData Availability StatementNo data were generated or analysed for or in support of this paper.
+
+TABLES AND FIGURES NOT SHOWN IN MAIN TEXT ABOVE:
+Graphical Abstract

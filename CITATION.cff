@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite it as below."
+title: "Major Revision, Minor Accountability: LLMs as Reviewers of Published Articles in Top-Tier Journals (code and data)"
+authors:
+  - family-names: Le Guellec
+    given-names: Bastien
+    affiliation: CHU Lille
+  - family-names: Kim
+    given-names: Su-Hwan
+    affiliation: Technical University of Munich
+  - family-names: Bentegeac
+    given-names: Raphael
+    affiliation: CHU Lille
+  - family-names: Hamroun
+    given-names: Aghiles
+    affiliation: CHU Lille
+repository-code: "https://github.com/BastienLeGuellec/major-revision-minor-accountability"
+license: MIT
+date-released: 2026-10-23
+version: "1.0.0"
